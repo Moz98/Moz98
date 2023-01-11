@@ -1,16 +1,26 @@
-### Hi there 👋
+# Olá 👋 Eu sou o Marcos Oliveira Zacarias
 
-<!--
-**Moz98/Moz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 Atualmente trabalho com alguns freelances desenvolvendo aplicações para pequenas empresas de Brasília.
+- 🌱 Estou estudando ReactJs
+- 👯 Estou procurando trabalhar em uma empresas como Front-end Developer.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Contate me: marcosoliveirazacarias@gmail.com
+- ⚡ Fun fact: Eu sou apaixonado por praticar esportes, principalmente outdoor.
+
+
+
+<div>
+
+[![Moz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moz98&show_icons=true&theme=great-gatsby)](https://github.com/Moz98/github-readme-stats)
+
+</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moz98&theme=great-gatsby)](https://github.com/Moz98/github-readme-stats)
+
+## Alguns Trabalhos Que Já Realizei 
+- Lu Paranhos;
+- Calculadora
+-----
+## Sobre Mim
+Sou graduado em administração, porém um aspirante da área de tecnologia. Atualmente estudando desenvolvimento Front-End e procurando uma transição de carreira.
+
+---
