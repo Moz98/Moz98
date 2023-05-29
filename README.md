@@ -22,7 +22,7 @@
 
 ----
 ## Projetos que achei legal fazer
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moz98&repo=bikcraft-origamid)](https://github.com/Moz98/bikcraft-origamid)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moz98&repo=bikcraft-origamid&theme=great-gatsby)](https://github.com/Moz98/bikcraft-origamid)
 
 
 <details>
